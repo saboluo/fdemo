@@ -9,5 +9,6 @@ public class Config {
 
     private static final String USERNAME = "ROOT";
 
+    private static final String ADDRESS = "XXXXXXXX";
 
 }
