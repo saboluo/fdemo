@@ -15,7 +15,7 @@ public class Config {
 
     private static final String PHONE = "19989898989232323";
 
-    private static final String EMAIL = "xxx@xx.com";
+    private static final String EMAIL = "32897982347@qq.com";
 
     private static final String SHORTNAME = "short name";
 
