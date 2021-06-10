@@ -19,6 +19,6 @@ public class Config {
 
     private static final String SHORTNAME = "short name";
 
-
+    private static final String SRC = "127.0.0.1";
 
 }
