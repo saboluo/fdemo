@@ -17,4 +17,8 @@ public class Config {
 
     private static final String EMAIL = "xxx@xx.com";
 
+    private static final String SHORTNAME = "short name";
+
+
+
 }
