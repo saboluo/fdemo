@@ -21,4 +21,7 @@ public class Config {
 
     private static final String SRC = "127.0.0.1";
 
+    private static final String NEW_FEA = "xing gong neng";
+
+
 }
