@@ -28,7 +28,7 @@ public class Config {
 
     private static final String FETURE_01 = "feture 01";
 
-
+    private static final String FETURE_02 = "feture 02";
 
 
 }
