@@ -23,5 +23,9 @@ public class Config {
 
     private static final String NEW_FEA = "xing gong neng";
 
+    private static final String NEW_FEA_U2_01 = "xing gong neng";
+
+
+
 
 }
